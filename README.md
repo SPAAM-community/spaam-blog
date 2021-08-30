@@ -3,7 +3,7 @@
 
 <p align="center">
 
-<img src="_media/spaam-blog_logo.svg" width=15%>
+<img src="https://raw.githubusercontent.com/SPAAM-community/spaam-blog/main/_media/spaam-blog_logo.svg" width=15%>
 
 <p/>
 
