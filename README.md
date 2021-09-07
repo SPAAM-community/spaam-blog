@@ -11,5 +11,5 @@
 
 This is the blog of the [SPAAM community](https://spaam-community.github.io/).
 
-The purpose of blog is to offer series of short, understandable posts about different aspects of ancient metagenomics. We hope to showcase a variety of types of posts, including wet lab, dry lab, tutorials, exlanations, and anything that help share the knowledge with the community.
+The purpose of blog is to offer series of short, understandable posts about different aspects of ancient metagenomics. We hope to showcase a variety of types of posts, including wet lab, dry lab, tutorials, explanations, and anything that help share the knowledge with the community.
 
